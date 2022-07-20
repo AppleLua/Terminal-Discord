@@ -1,2 +1,4 @@
 # Terminal-Discord
-A Discord client in the Windows Terminal
+A Discord client made for the Windows Terminal.
+
+No prototype is out yet. I am working on it.
